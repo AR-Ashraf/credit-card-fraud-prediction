@@ -1,9 +1,10 @@
 # ***credit-card-fraud-prediction***
+
 ***Credit Card Fraud Prediction using Logistic Regression, Random Forest and XGBoost Classifier***
 
-This is coparison based training model for three different machine learning algorithms - Logistic Regression, Random Forest and XG Boost.
+This is comparison based training model for three different machine learning algorithms - Logistic Regression, Random Forest and XG Boost.
 
-At first, we have trained the whole dataset without any preprocessing with all these models. Then we applied both under sampling and over sampling (SMOTE) to the train set of the data.
+At first, we have trained the whole dataset without any preprocessing with all these models. Then we have applied both under sampling and over sampling (SMOTE) to the train set of the data.
 
 Then we have validated our trained model using Kfold Cross Validation, Confusion Matrix, GridSearch Cross Validation, ROC Curve, Precesion and Recall scores.
 
